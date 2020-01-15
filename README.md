@@ -4,6 +4,11 @@ This is a default Angular project to check security threats in core and its depe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
+## npm audit results
+
+After npm audit command, found 2 high severity vulnerabilities in 18890 scanned packages. Both are related to  
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
