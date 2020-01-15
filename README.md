@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## npm audit results
 
-After npm audit command, found 2 high severity vulnerabilities in 18890 scanned packages. Both are related to  
-
+After running npm audit command, found 2 high severity vulnerabilities in 18890 scanned packages. Both are related to  
+Command Injection bug.
 
 ## Development server
 
