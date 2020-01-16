@@ -1,5 +1,7 @@
 # angular-default
 
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/angular-default/badge.svg)](https://snyk.io/test/github/sathyesh/angular-default)
+
 This is a default Angular project to check security threats in core and its dependencies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
