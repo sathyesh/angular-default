@@ -1,6 +1,6 @@
 # angular-default
 
-[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/angular-default/badge.svg)](https://snyk.io/test/github/sathyesh/angular-default)
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/angular-default/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sathyesh/angular-default?targetFile=package.json)
 
 This is a default Angular project to check security threats in core and its dependencies
 
